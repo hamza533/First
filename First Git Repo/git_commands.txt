@@ -1,0 +1,8 @@
+1-git status
+2-git --version
+3-git init
+4-git add. 					(for stage)
+5-git comit -m "any message"
+6-git log 					(to view changes done by other team members)
+7-git config --global user.name "any name" 	(to change name)
+8-git config --global user.email "any email"	(to change email)
